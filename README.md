@@ -9,8 +9,9 @@ Built using: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#
 <summary>Expand to see full list</summary>
 
 + Coming soon!
-+ Fill in
-+ Fill in
++ When adding dependencies, please keep the list alphabetical and add the version number
++ Check the node-web-scraper repo for details, thank you!
++ add dependency
 </details>
 
 ###### Built by: Will Wearing and Tom Sherman
