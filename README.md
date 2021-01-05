@@ -15,3 +15,5 @@ Built using: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#
 </details>
 
 ###### Built by: Will Wearing and Tom Sherman
+
+[About the team](https://github.com/JS-Jr-Dev-Job-Board/About/blob/main/README.md)
